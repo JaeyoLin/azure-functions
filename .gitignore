@@ -22,4 +22,3 @@ project.lock.json
 /data
 .secrets
 
-./node_modules
